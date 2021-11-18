@@ -9,9 +9,6 @@ summan av priserna i aktuell valuta och i svenska kronor. Användaren ska kunna 
 
 
 // deklarerar funktionerna så att datorn har sett dom innan.
-
-
-// deklarerar funktionerna så att datorn har sett dom innan.
 float set_currency(void);
 float meny(float exchangeRate);
 float choice(void);                       
