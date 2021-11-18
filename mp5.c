@@ -9,6 +9,9 @@ summan av priserna i aktuell valuta och i svenska kronor. Användaren ska kunna 
 
 
 // deklarerar funktionerna så att datorn har sett dom innan.
+
+
+// deklarerar funktionerna så att datorn har sett dom innan.
 float set_currency(void);
 float meny(float exchangeRate);
 float choice(void);                       
@@ -148,3 +151,4 @@ void lastsum(float num3, float exchangeRate)                              // få
      // skriver vi ut summan gånger vad exchangerate är just då.
     printf("\nSum in SEK: %.2f\n", num3 * exchangeRate);              
 }
+
