@@ -131,7 +131,7 @@ float converting_price(float n)
 float giveprice(void)
 {
     float n;
-    printf("Give price (finish with < 0): ");              
+    printf("Give price (finish with an int < 0): ");              
     scanf("%f", &n);
     return n;
 }
