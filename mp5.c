@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /*  
-
 Programmet skall läsa in priser i aktuell utländsk valuta och sedan presentera
 summan av priserna i aktuell valuta och i svenska kronor. Användaren ska kunna ange växlingskurs.
-
 */
+
 
 
 // deklarerar funktionerna så att datorn har sett dom innan.
