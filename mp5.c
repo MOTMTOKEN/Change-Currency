@@ -81,7 +81,7 @@ float choice(void)
 float set_currency(void)
 {
     float exchangeRate;
-    printf("\nGive exchange rate: ");                           
+    printf("\nGive exchange rate of your choosing: ");                           
     scanf("%f", &exchangeRate);
 
     return exchangeRate;
